@@ -1,2 +1,2 @@
 #!/bin/bash
-hash=$(sha256sum $1 | awk '{print $1}');[ "$hash" = "$2" ] && echo "$1: OK" || echo "$1: FAIL"
+sha256sum -c <<< "$2  $1" >/dev/null 2>&1 && echo "$1: OK" || echo "$1: FAIL"
