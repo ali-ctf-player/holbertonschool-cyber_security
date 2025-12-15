@@ -1,2 +1,2 @@
 #!/bin/bash
-ps -u $1
+ps aux -u $1
