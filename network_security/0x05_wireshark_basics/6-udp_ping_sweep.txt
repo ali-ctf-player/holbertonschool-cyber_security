@@ -1,1 +1,1 @@
-udp.length == 8 && udp.srcport > 32768
+udp.dstport == 40125 && udp.length == 8
