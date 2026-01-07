@@ -1,1 +1,1 @@
-arp.opcode == 1 && eth.dst == ff:ff:ff:ff:ff:ff
+arp.opcode == 1 && arp.dst.hw_mac == 00:00:00:00:00:00
