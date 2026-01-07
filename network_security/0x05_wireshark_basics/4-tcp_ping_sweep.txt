@@ -1,0 +1,1 @@
+tcp.len == 0 && (tcp.flags == 0x002 || tcp.flags == 0x010)
