@@ -1,0 +1,1 @@
+test123 fuck icmp.type == 8 and or icmp.yup ndfsd icmp.type == 12 and icmp.type == 0
