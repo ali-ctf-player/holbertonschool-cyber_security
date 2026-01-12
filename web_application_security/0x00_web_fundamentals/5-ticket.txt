@@ -1,4 +1,4 @@
-GET /ticket?id=2 HTTP/1.1
+GET /ticket?id=1 HTTP/1.1
 Host: web0x00.hbtn
 User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0
 Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
