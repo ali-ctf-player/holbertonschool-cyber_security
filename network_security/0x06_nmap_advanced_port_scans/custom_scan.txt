@@ -1,0 +1,20 @@
+Starting Nmap 7.94SVN ( https://nmap.org ) at 2024-09-02 12:31 WAT
+Nmap scan report for www.holbertonschool.com (52.17.119.105)
+Host is up (0.052s latency).
+Other addresses for www.holbertonschool.com (not scanned): 34.249.200.254 63.35.51.142
+rDNS record for 52.17.119.105: ec2-52-17-119-105.eu-west-1.compute.amazonaws.com
+
+PORT   STATE    SERVICE
+80/tcp filtered http
+81/tcp filtered hosts2-ns
+82/tcp filtered xfer
+83/tcp filtered mit-ml-dev
+84/tcp filtered ctf
+85/tcp filtered mit-ml-dev
+86/tcp filtered mfcobol
+87/tcp filtered priv-term-l
+88/tcp filtered kerberos-sec
+89/tcp filtered su-mit-tg
+90/tcp filtered dnsix
+
+Nmap done: 1 IP address (1 host up) scanned in 2.77 seconds
