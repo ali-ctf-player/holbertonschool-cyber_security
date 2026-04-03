@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 import sys
-
-"""It is bufffer overflow fucking holberton"""
+"""It is bufffer overflow"""
 
 def usage():
     print("Usage:python3 read_write_heap.py [PID] [SEARCH_STRING] [REPLACE_STRING]")
