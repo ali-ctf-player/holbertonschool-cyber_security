@@ -1,2 +1,2 @@
 #!/bin/bash
-grep "iptables" auth.log | grep "INPUT" | wc -l
+grep "useradd" auth.log | grep -o 'name=[^ ]*' | awk -F'[=,]' '{print $2}' | sort | uniq | tr '\n' ',' | sed 's/,$/\n/'
