@@ -1,2 +1,2 @@
 #!/bin/bash
-nmap $1
+nmap $1 --script default
